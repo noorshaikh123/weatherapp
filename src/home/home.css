@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+.textbox{
+    border-radius: 10px;
+    width: 450px;
+    height: 40px;
+    display: block;
+    margin: 30px auto;
+    font-size: 20px;
+    padding: 5px;
+    border: none;
+}
+body{
+    background-color: #33ccff;
+}
+.text{
+    text-align: center;
+}
+.msg{
+    text-align: center;
+}
+.image{
+    height: 30px;
+}
